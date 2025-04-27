@@ -37,13 +37,13 @@
       description: Cheng Zhang, Yueji Zhu
     - title: Valuing the effect of Capital goes to countryside on cropland abandonment: Evidence from rural China
       year: 2025
-      description: Mengmeng Chen, Qing Han, Cheng Zhang et al.,
+      description: Mengmeng Chen, Qing Han, Cheng Zhang et al.
     - title: Understanding the impact of internet use on farmer entrepreneurship: evidence from rural China
       year: 2024
       description: Kunxi Nie, Yueji Zhu, Cheng Zhang
     - title: Impacts of social capital on climate change adaptations of banana farmers in Southern China
       year: 2023
-      description: Cishahayo Laurent, Yueji Zhu, Cheng Zhang et al.,
+      description: Cishahayo Laurent, Yueji Zhu, Cheng Zhang et al.
     - title: Adaptation strategies and land productivity of banana farmers under climate change in China
       year: 2022
       description: Yueji Zhu, Qi Yang, Cheng Zhang
@@ -57,13 +57,13 @@
     - title: The 11th Cooperative Economy Forum of the China Cooperative Economics Society
       year: 2024
       description: Henan, China
-    - title: Chinese Conference on Agriculture & Forestry Economics and Management，CAFEM
+    - title: Chinese Conference on Agriculture & Forestry Economics and Management, CAFEM
       year: 2024
       description: Yunnan, China
-    - title: Chinese Conference on Agriculture & Forestry Economics and Management，CAFEM
+    - title: Chinese Conference on Agriculture & Forestry Economics and Management, CAFEM
       year: 2022
       description: Online
-    - title: Chinese Conference on Agriculture & Forestry Economics and Management，CAFEM
+    - title: Chinese Conference on Agriculture & Forestry Economics and Management, CAFEM
       year: 2021
       description: Online
 
@@ -88,7 +88,7 @@
     - year: 2021
       items:
         - Excellent Paper Award at the Youth Forum on Rural Development at the Chinese Academy of Social Sciences
-  
+
 - title: Academic Interests
   type: nested_list
   contents:
@@ -99,10 +99,12 @@
         - Land abandonment
     - title: Industrial Organization
       items:
-        - Market monopoly, Market barrier
+        - Market monopoly
+        - Market barrier
         - Government favoritism
 
 - title: Other Interests
   type: list
   contents:
     - <u>Hobbies:</u> PAINTING, SINGING, etc.
+
