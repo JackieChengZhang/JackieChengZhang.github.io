@@ -5,7 +5,7 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Cheng
 middle_name:
-last_name: Zhang (张诚)
+last_name: Zhang (張 誠)
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -89,7 +89,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Cheng Zhang's Home # blog_name will be displayed in your blog page
-blog_description: Share what I have learned and thought
+blog_description: What I have learned and thought
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
