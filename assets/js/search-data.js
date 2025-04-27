@@ -408,12 +408,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-announcement-3",
-          title: 'Announcement_3',
+            },},{id: "news-welcome-to-cheng-zhang-s-personal-website-sparkles-smile-tada-tada-tada-after-a-lot-of-hard-work-and-debugging-my-first-website-is-finally-live-huge-thanks-to-everyone-who-supported-and-helped-along-the-way-this-is-an-important-milestone-in-my-learning-and-growth-and-i-hope-you-all-enjoy-it-feel-free-to-share-your-thoughts-and-feedback-looking-forward-to-more-projects-and-updates-ahead",
+          title: 'Welcome to Cheng Zhang’s personal website! :sparkles: :smile: :tada: :tada: :tada: After a...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_3/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
