@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>China Agricultural University</p>
-    <p>No. 17 Tsing Hua East Road</p>
+    <p>No.17 Tsinghua East Road</p>
     <p>Beijing, P.R. China</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
