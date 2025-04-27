@@ -6,7 +6,7 @@
     "email": "zhangcheng@cau.edu.cn",
     "phone": "",
     "url": "https://JackieChengZhang.github.io/",
-    "summary": "",
+    "summary": "A novice in economics",
     "location": {
       "address": "",
       "postalCode": "",
@@ -22,97 +22,133 @@
       }
     ]
   },
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
       "institution": "China Agricultural University, Beijing, China",
       "location": "Beijing, China",
       "url": "https://www.cau.edu.cn/",
-      "area": "Department of Agricultural Economics and Managemant",
+      "area": "Department of Agricultural Economics",
       "studyType": "PhD",
       "startDate": "2023-09-01",
       "endDate": "2027-05-01",
       "score": "10",
-      "courses": [""]
+      "courses": ""
+    },
+    {
+      "institution": "Hainan University, Haikou, China",
+      "location": "Haikou, China",
+      "url": "https://www.hainanu.edu.cn/",
+      "area": "Department of Agricultural Economics and Managemant",
+      "studyType": "MM",
+      "startDate": "2020-09-01",
+      "endDate": "2023-06-01",
+      "score": "10",
+      "courses": ""
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "",
-      "date": "",
-      "issuer": "",
+      "title": "Second-Class Scholarship from China Agricultural University",
+      "date": "2024",
+      "awarder": "China Agricultural University",
       "url": "",
-      "icon": ""
+      "summary": ""
     },
     {
-      "name": "",
-      "date": "",
-      "issuer": "",
+      "title": "Outstanding Graduate Award from Hainan University",
+      "date": "2023",
+      "awarder": "Hainan University",
       "url": "",
-      "icon": ""
+      "summary": ""
+    },
+    {
+      "title": "First-Class Scholarship from Hainan University",
+      "date": "2022",
+      "awarder": "Hainan University",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "First-Class Scholarship from Hainan University",
+      "date": "2021",
+      "awarder": "Hainan University",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Excellent Paper Award at the 2nd China 'Agriculture, Rural Areas, and Farmers' Development Frontier Academic Forum",
+      "date": "2021",
+      "awarder": "South China Agricultural University",
+      "url": "",
+      "summary": ""
+    },
+     {
+      "title": "Excellent Paper Award at the Youth Forum on Rural Development at the Chinese Academy of Social Sciences",
+      "date": "2021",
+      "awarder": "University of Chinese Academy of Sciences",
+      "url": "",
+      "summary": ""
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Valuing the effect of Capital goes to countryside on cropland abandonment evidence from rural China",
+      "publisher": "Mengmeng Chen, Qing Han, Cheng Zhang et al.",
+      "releaseDate": "2025",
+      "url": "",
+      "summary": ""
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Participation in land rental and labor markets and agricultural economic performance of banana farmers in China",
+      "publisher": "Cheng Zhang, Kunxi Nie, Yueji Zhu",
+      "releaseDate": "2024",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0264837724002606",
+      "summary": ""
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Understanding the impact of internet use on farmer entrepreneurship evidence from rural China",
+      "publisher": "Kunxi Nie, Yueji Zhu, Cheng Zhang",
+      "releaseDate": "2024",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "The impact of market-oriented cooperation on food production performance in small-scale farms in rural China",
+      "publisher": "Cheng Zhang, Yueji Zhu",
+      "releaseDate": "2023",
+      "url": "https://www.researchgate.net/publication/368468550_The_impact_of_market-oriented_cooperation_on_fo",
+      "summary": ""
+    },
+    {
+      "name": "Impacts of social capital on climate change adaptations of banana farmers in Southern China",
+      "publisher": "Cishahayo Laurent, Yueji Zhu, Cheng Zhang et al.",
+      "releaseDate": "2023",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Adaptation strategies and land productivity of banana farmers under climate change in China",
+      "publisher": "Yueji Zhu, Qi Yang, Cheng Zhang",
+      "releaseDate": "2022",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0264837724002606",
+      "summary": ""
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Econometric Analysis",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "STATA",
+        "Python",
+        "ArcGIS"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -124,38 +160,26 @@
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Agricultural Economics and Industrial Organization",
+      "icon": "",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Agricultural factor markets",
+        "Economic performance of farms",
+        "Land abandonment",
+        "Market monopoly",
+        "Market barrier",
+        "Government favoritism"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "National Natural Science Foundation of China",
+      "summary": "General Program, Regional Program",
+      "highlights": ["Agricultural & Forestry Economics and Management"],
+      "startDate": "",
+      "endDate": "",
+      "url": ""
     }
   ]
 }
