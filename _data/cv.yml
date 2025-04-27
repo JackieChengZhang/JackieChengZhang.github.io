@@ -1,97 +1,116 @@
-- title: General Information
+- title: Basics
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+    - name: Name
+      value: Cheng Zhang
+    - name: Label
+      value: Ph.D. Candidate
+    - name: Email
+      value: zhangcheng@cau.edu.cn
+    - name: Url
+      value: https://JackieChengZhang.github.io/
     - name: Languages
-      value: English, German
+      value: Chinese, English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: China Agricultural University, Beijing, China
+      year: 2023.09-now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        Department of Agricultural Economics
+    - title: MM
+      institution: Hainan University, Haikou, China
+      year: 2020.09-2023.06
       description:
-        - Description 1.
-        - Description 2.
+        Department of Agricultural Economics
 
-- title: Experience
+- title: Publications
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+    - title: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0264837724002606">Participation in land rental and labor markets and agricultural economic performance of banana farmers in China</a>
+      year: 2024
+      description: Cheng Zhang, Kunxi Nie, Yueji Zhu
+    - title: <a href="https://www.researchgate.net/publication/368468550_The_impact_of_market-oriented_cooperation_on_fo">The impact of market-oriented cooperation on food production performance in small-scale farms in rural China</a>
+      year: 2023
+      description: Cheng Zhang, Yueji Zhu
+    - title: Valuing the effect of Capital goes to countryside on cropland abandonment: Evidence from rural China
+      year: 2025
+      description: Mengmeng Chen, Qing Han, Cheng Zhang et al.,
+    - title: Understanding the impact of internet use on farmer entrepreneurship: evidence from rural China
+      year: 2024
+      description: Kunxi Nie, Yueji Zhu, Cheng Zhang
+    - title: Impacts of social capital on climate change adaptations of banana farmers in Southern China
+      year: 2023
+      description: Cishahayo Laurent, Yueji Zhu, Cheng Zhang et al.,
+    - title: Adaptation strategies and land productivity of banana farmers under climate change in China
+      year: 2022
+      description: Yueji Zhu, Qi Yang, Cheng Zhang
+  
+- title: Major Seminar and Conference Presentations
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: The 16th China Agricultural Economic Review (CAER) – IFPRI Annual Conference
+      year: 2024
+      description: Hunan, China
+  type: time_table
+  contents:
+    - title: The 11th Cooperative Economy Forum of the China Cooperative Economics Society
+      year: 2024
+      description: Henan, China
+  type: time_table
+  contents:
+    - title: Chinese Conference on Agriculture & Forestry Economics and Management，CAFEM
+      year: 2024
+      description: Yunnan, China
+  type: time_table
+  contents:
+    - title: Chinese Conference on Agriculture & Forestry Economics and Management，CAFEM
+      year: 2022
+      description: Online
+  type: time_table
+  contents:
+    - title: Chinese Conference on Agriculture & Forestry Economics and Management，CAFEM
+      year: 2021
+      description: Online
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Second-Class Scholarship from China Agricultural University
+    - year: 2023
       items:
-        - Max Planck Medal
-
+        - Outstanding Graduate Award from Hainan University
+    - year: 2022
+      items:
+        - First-Class Scholarship from Hainan University
+    - year: 2021
+      items:
+        - First-Class Scholarship from Hainan University
+    - year: 2021
+      items:
+        - Excellent Paper Award at the 2nd China "Agriculture, Rural Areas, and Farmers" Development Frontier Academic Forum
+    - year: 2021
+      items:
+        - Excellent Paper Award at the Youth Forum on Rural Development at the Chinese Academy of Social Sciences
+  
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Agricultural Economics
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Agricultural factor markets
+        - Economic performance of farms
+        - Land abandonment
+    - title: Industrial Organization
       items:
-        - Description 1.
-        - Description 2.
+        - Market monopoly, Market barrier
+        - Government favoritism
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> PAINTING, SINGING, etc.
