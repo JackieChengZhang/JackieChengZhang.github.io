@@ -65,10 +65,11 @@ papertitle { font-weight: 600; font-size: 100%; }
 .image.avatar:before { display: none; }
 
 .image.avatar img {
-  border-radius: 100%;
-  width: 117px !important;
-  height: 117px !important;
-  object-fit: cover;
+  border-radius: 50% !important;
+  width: 130px !important;
+  height: 130px !important;
+  object-fit: cover !important;
+  object-position: center top;
   padding: 0 !important;
 }
 
